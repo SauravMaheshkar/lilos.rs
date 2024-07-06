@@ -1,0 +1,2 @@
+header:
+    i686-unknown-linux-gnu-as src/boot.s -o result/boot.o
